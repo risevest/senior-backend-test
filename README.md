@@ -73,4 +73,4 @@ Unit tests are a must, submissions without tests will be ignored.
 5. Share with us through email the:
     - Repository
     - Hosted API URL
-    - Postman Collection
+    - Postman Collection Public URL
